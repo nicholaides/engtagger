@@ -4,6 +4,5 @@ spec = Gem::Specification.new do |p|
   p.name = "engtagger"
   p.author = "Yoichiro Hasebe"
   p.email = 'yohasebe@gmail.com'
-  p.url = "http://engtagger.rubyforge.org"
   # p.need_zip = true
 end
