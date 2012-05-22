@@ -4,5 +4,5 @@ spec = Gem::Specification.new do |p|
   p.name = "engtagger"
   p.author = "Yoichiro Hasebe"
   p.email = 'yohasebe@gmail.com'
-  # p.need_zip = true
+  p.add_runtime_dependency 'hpricot'
 end
